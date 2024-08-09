@@ -1,4 +1,4 @@
-# Transactional-Fraud-Detection
+# Insurance-Fraud-Detection
 The project uses historical transaction data including normal transactions and fraud ones to obtain normal/fraud behavior features 
 based on machine learning techniques, and utilized these features to check if a transaction is fraud or not.
 
